@@ -1,0 +1,4 @@
+sudo apt-get install xvfb
+Xvfb :10
+bg
+export DISPLAY=:10
